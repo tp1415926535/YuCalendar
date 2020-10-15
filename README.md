@@ -3,8 +3,7 @@
 
 **下载链接 [v1.1]**   
 【有点小问题，正在修复中……】
-- 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BFv1.1.rar)   
-- 地址2：[蓝奏云](https://wws.lanzous.com/iTrsehgdw0d)   
+请耐心等待
 任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。
    
 **说明**   
