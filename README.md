@@ -1,10 +1,9 @@
 # 今日鱼势（YuCalendar）
 ![主窗体界面](https://github.com/tp1415926535/YuCalendar/raw/main/%E6%A6%82%E8%BF%B0%E5%9B%BE/%E8%93%9D%E7%AD%BE.png)
 
-**下载链接 [v1.0]**   
-（预计2020/10/15晚上更新v1.1版）   
-- 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BF.rar)   
-- 地址2：[蓝奏云](https://wws.lanzous.com/inuOhhfccij)   
+**下载链接 [v1.1]**   
+- 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BFv1.1.rar)   
+- 地址2：[蓝奏云](https://wws.lanzous.com/iTrsehgdw0d)   
 任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。
    
 **说明**   
@@ -35,10 +34,13 @@
 - 主要界面设计：海苔   
 - 鱼势内容：张乔瑜   
    
-**版本**   
-　**v1.1**　（预计2020/10/15晚上更新　修复部分闪烁问题、节气断层问题；新增自动检测版本功能，记录关闭位置功能；优化逻辑）    
-　**v1.0**　2020/10/14　实现万年历和鱼势基本功能。
-
+**历史版本**   
+　**[v1.1版](https://wws.lanzous.com/iTrsehgdw0d)**　2020/10/15　修复部分界面闪烁问题、节气断层问题；新增自动检测版本功能、记录关闭位置功能；加入小彩蛋。    
+　**[v1.0版](https://wws.lanzous.com/iKiumhgeeta)**　2020/10/14　实现万年历和鱼势基本功能。
+ </br>   
+    
+   *注：v1.1以上版本可在程序内的“关于”按钮自动检查更新。*   
+   
 **建议**
 - 
 　建议可以直接在该项目的Issues发表，也可以在[微博页](https://weibo.com/6505195747/JpbnSFUgI?type=comment#_loginLayer_1602732729227)进行评论。
