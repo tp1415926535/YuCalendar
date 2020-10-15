@@ -3,7 +3,7 @@
 
 **下载链接**   
 （预计2020/10/15晚上更新v1.1版）   
-v1.0版下载地址：  
+当前最新版本v1.0：  
 - 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BF.rar)   
 - 地址2：[蓝奏云](https://wws.lanzous.com/inuOhhfccij)   
 任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。
