@@ -5,7 +5,8 @@
 - 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BFv1.1.rar)   
 - 地址2：[蓝奏云](https://wws.lanzous.com/i9DJ1hhacgh)   
 
-任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。[查看历史版本](https://github.com/tp1415926535/YuCalendar#%E5%BC%80%E5%8F%91)    
+任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。   
+*注：如果下载过旧版，可直接删除之前的文件夹。*  [查看历史版本](https://github.com/tp1415926535/YuCalendar#%E5%BC%80%E5%8F%91)    
    
 **说明**   
 -   
