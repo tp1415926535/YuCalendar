@@ -2,15 +2,18 @@
 ![主窗体界面](https://github.com/tp1415926535/YuCalendar/raw/main/%E6%A6%82%E8%BF%B0%E5%9B%BE/%E8%93%9D%E7%AD%BE.png)
 
 **下载链接 [v1.1]**   
-【有点小问题，正在修复中……】
-请耐心等待，预计2020/10/16晚上完成更新。   
-任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。
+- 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BFv1.1.rar)   
+- 地址2：[蓝奏云](https://wws.lanzous.com/i9DJ1hhacgh)   
+
+任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。[查看历史版本](https://github.com/tp1415926535/YuCalendar#%E5%BC%80%E5%8F%91)    
    
 **说明**   
 -   
   本程序为AKB48 Team SH 张乔瑜 微博超话同名专题设计。   
 - 万年历功能支持离线；   
 - 鱼势加载速度与网络有关。   
+
+*个人配置缓存（自定义色、置顶、窗体关闭位置）文件夹位置：C:\Users\ASUS\AppData\Local\YuCalendar*   
 
 **介绍**
 -    
@@ -35,7 +38,7 @@
 - 鱼势内容：张乔瑜   
    
 **历史版本**   
-　**[v1.1版](https://wws.lanzous.com/iTrsehgdw0d)**　2020/10/15　修复部分界面闪烁问题、节气断层问题；新增自动检测版本功能、记录关闭位置功能；加入小彩蛋。    
+　**[v1.1版](https://wws.lanzous.com/i9DJ1hhacgh)**　2020/10/16　修复界面闪烁、节气断层问题，修正了干支历算法；新增自动检测新版本、记录功能增加位置；加入小彩蛋。    
 　**[v1.0版](https://wws.lanzous.com/iKiumhgeeta)**　2020/10/14　实现万年历和鱼势基本功能。
  </br>   
     
