@@ -15,7 +15,7 @@
 - 万年历功能支持离线；   
 - 鱼势加载速度与网络有关。   
 
-*注：个人配置缓存（自定义色、置顶、窗体关闭位置）文件夹位置：C:\Users\ASUS\AppData\Local\YuCalendar*   
+*注：个人配置缓存（自定义色、置顶、窗体关闭位置）文件夹位置：C:\Users\（你的用户名）\AppData\Local\YuCalendar*   
 
 **介绍**
 -    
