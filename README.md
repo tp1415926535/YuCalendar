@@ -1,5 +1,5 @@
 # 今日鱼势（YuCalendar）
-[Github版](https://github.com/tp1415926535/YuCalendar) / [Gitee版](https://github.com/tp1415926535/YuCalendar/blob/main/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md) 说明文档 *<若图片不显示可以查看gitee版说明文档>*    
+[Github版](https://github.com/tp1415926535/YuCalendar) / [Gitee版](https://gitee.com/tp1415926535/YuCalendar/blob/main/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md) 说明文档 *<若图片不显示可以查看gitee版说明文档>*    
 ![主窗体界面](https://github.com/tp1415926535/YuCalendar/raw/main/%E6%A6%82%E8%BF%B0%E5%9B%BE/%E8%93%9D%E7%AD%BE.png)
 
 **下载链接 [v1.2]**   
