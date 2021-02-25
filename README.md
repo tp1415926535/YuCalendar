@@ -4,7 +4,7 @@
 
 **下载链接 [v1.2]**   
 - 地址1：[Github](https://github.com/tp1415926535/YuCalendar/raw/main/%E4%BB%8A%E6%97%A5%E9%B1%BC%E5%8A%BFv1.2.rar)   
-- 地址2：[蓝奏云](https://wws.lanzous.com/ilS41m6797g)   
+- 地址2：[蓝奏云](https://wws.lanzous.com/i5nMkm6frdi)   
 - 地址3：张乔瑜应援群663449484中群文件
 
 任意选择一种方式下载，文件 < 1M，解压后运行“**今日运势.exe**”即可。   
@@ -41,7 +41,7 @@
 - 鱼势内容：张乔瑜   
    
 **历史版本**   
-　**[v1.2版](https://wws.lanzous.com/ilS41m6797g)**　2021/02/25　加强搜索策略；修改结果元素定位；检查更新新增国内版。    
+　**[v1.2版](https://wws.lanzous.com/i5nMkm6frdi)**　2021/02/25　加强搜索策略；修改结果元素定位；检查更新新增国内版。    
 　**[v1.1版](https://wws.lanzous.com/i9DJ1hhacgh)**　2020/10/16　修复界面闪烁、节气断层问题，修正了干支历算法；新增自动检测新版本、记录功能增加位置；加入小彩蛋。    
 　**[v1.0版](https://wws.lanzous.com/iKiumhgeeta)**　2020/10/14　实现万年历和鱼势基本功能。   
  </br>   
